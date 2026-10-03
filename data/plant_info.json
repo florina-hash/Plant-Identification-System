@@ -1,0 +1,385 @@
+{
+    "Curry": {
+        "scientific_name": "Murraya koenigii",
+        "common_names": ["Curry leaf", "Curry tree"],
+        "family": "Rutaceae",
+        "description": "A small aromatic tree whose leaves are widely used as a culinary herb in South Asian cooking.",
+        "uses": ["Cooking", "Flavoring", "Traditional food preparation"]
+    },
+
+    "Drumstick": {
+        "scientific_name": "Moringa oleifera",
+        "common_names": ["Drumstick tree", "Moringa"],
+        "family": "Moringaceae",
+        "description": "A fast-growing tree cultivated for its edible leaves and long seed pods.",
+        "uses": ["Food", "Cooking", "Vegetable production"]
+    },
+
+    "Tomato": {
+        "scientific_name": "Solanum lycopersicum",
+        "common_names": ["Tomato"],
+        "family": "Solanaceae",
+        "description": "A widely cultivated plant grown for its edible fruits.",
+        "uses": ["Food", "Cooking", "Sauces and processed foods"]
+    },
+
+    "Ginger": {
+        "scientific_name": "Zingiber officinale",
+        "common_names": ["Ginger"],
+        "family": "Zingiberaceae",
+        "description": "A flowering plant cultivated for its aromatic underground rhizome.",
+        "uses": ["Cooking", "Spices", "Beverages"]
+    },
+
+    "Chilly": {
+        "scientific_name": "Capsicum frutescens",
+        "common_names": ["Chilli", "Chili pepper"],
+        "family": "Solanaceae",
+        "description": "A pepper plant cultivated for its pungent edible fruits.",
+        "uses": ["Cooking", "Spice production", "Food seasoning"]
+    },
+
+    "Nelavembu": {
+        "scientific_name": "Andrographis paniculata",
+        "common_names": ["Green chiretta", "King of bitters"],
+        "family": "Acanthaceae",
+        "description": "An annual herb native to tropical Asian regions and commonly cultivated as a medicinal plant.",
+        "uses": ["Traditional plant use", "Herbal preparations", "Garden cultivation"]
+    },
+
+    "Jackfruit": {
+        "scientific_name": "Artocarpus heterophyllus",
+        "common_names": ["Jackfruit"],
+        "family": "Moraceae",
+        "description": "A tropical tree producing large edible fruits containing numerous fleshy segments.",
+        "uses": ["Food", "Cooking", "Fruit production"]
+    },
+
+    "Turmeric": {
+        "scientific_name": "Curcuma longa",
+        "common_names": ["Turmeric"],
+        "family": "Zingiberaceae",
+        "description": "A rhizomatous plant cultivated for its bright yellow-orange underground rhizomes.",
+        "uses": ["Cooking", "Spice production", "Food colouring"]
+    },
+
+    "Honge": {
+        "scientific_name": "Millettia pinnata",
+        "common_names": ["Indian beech", "Pongam"],
+        "family": "Fabaceae",
+        "description": "A tree commonly found in tropical and subtropical regions and valued for its seeds and shade.",
+        "uses": ["Shade", "Landscaping", "Traditional plant uses"]
+    },
+
+    "Mint": {
+        "scientific_name": "Mentha",
+        "common_names": ["Mint"],
+        "family": "Lamiaceae",
+        "description": "A group of aromatic herbaceous plants cultivated for their fragrant leaves.",
+        "uses": ["Cooking", "Beverages", "Flavoring"]
+    },
+
+    "Jasmine": {
+        "scientific_name": "Jasminum",
+        "common_names": ["Jasmine"],
+        "family": "Oleaceae",
+        "description": "A group of flowering plants known for their strongly fragrant flowers.",
+        "uses": ["Ornamental cultivation", "Garlands", "Fragrance"]
+    },
+
+    "Castor": {
+        "scientific_name": "Ricinus communis",
+        "common_names": ["Castor bean", "Castor plant"],
+        "family": "Euphorbiaceae",
+        "description": "A fast-growing plant cultivated for its seeds, which are the source of castor oil.",
+        "uses": ["Castor oil production", "Industrial uses", "Ornamental cultivation"]
+    },
+
+    "Kambajala": {
+        "scientific_name": "Mallotus philippensis",
+        "common_names": ["Kambajala"],
+        "family": "Euphorbiaceae",
+        "description": "A dataset class identified by the local name Kambajala. The exact botanical identity should be verified from the original dataset source before assigning a scientific name.",
+        "uses": []
+    },
+
+    "Kasambruga": {
+        "scientific_name": "Senna occidentalis",
+        "common_names": ["Kasamarda", "Coffee Senna"],
+        "family": "Fabaceae",
+        "description": "A dataset class identified by the local name Kasambruga. The published dataset documentation does not provide a scientific name for this class.",
+        "uses": ["Respiratory health","Digestive cleaning","Treating skin infections"]
+    },
+
+    "Badipala": {
+        "scientific_name": null,
+        "common_names": ["Badipala"],
+        "family": null,
+        "description": "A dataset class identified by the local name Badipala. The published dataset documentation does not provide a scientific name for this class.",
+        "uses": []
+    },
+
+    "Neem": {
+        "scientific_name": "Azadirachta indica",
+        "common_names": ["Neem", "Indian lilac"],
+        "family": "Meliaceae",
+        "description": "A tropical evergreen tree widely cultivated in South Asia.",
+        "uses": ["Traditional household uses", "Natural pest management", "Timber"]
+    },
+
+    "Guava": {
+        "scientific_name": "Psidium guajava",
+        "common_names": ["Guava"],
+        "family": "Myrtaceae",
+        "description": "A small tropical tree cultivated for its edible fruits.",
+        "uses": ["Food", "Juices and beverages", "Horticulture"]
+    },
+
+    "Coriender": {
+        "scientific_name": "Coriandrum sativum",
+        "common_names": ["Coriander", "Cilantro"],
+        "family": "Apiaceae",
+        "description": "An aromatic herb cultivated for its fresh leaves and seeds.",
+        "uses": ["Cooking", "Flavoring", "Spice production"]
+    },
+
+    "ashoka": {
+        "scientific_name": "Saraca asoca",
+        "common_names": ["Ashoka", "Ashoka tree"],
+        "family": "Fabaceae",
+        "description": "An evergreen tree known for its attractive foliage and clusters of orange to red flowers.",
+        "uses": ["Ornamental cultivation", "Traditional plant use", "Landscaping"]
+    },
+
+    "Caricature": {
+        "scientific_name": "Graptophyllum pictum",
+        "common_names": ["Caricature plant"],
+        "family": "Acanthaceae",
+        "description": "An ornamental shrub valued for its colourful foliage.",
+        "uses": ["Ornamental cultivation", "Landscaping", "Garden decoration"]
+    },
+
+    "Citron lime (herelikai)": {
+        "scientific_name": "Citrus medica",
+        "common_names": ["Herelikai", "Citron lime","Nartanga"],
+        "family": "Rutaceae",
+        "description": "A citrus-related dataset class identified by the local name Herelikai. The exact species should be verified from the original dataset source.",
+        "uses": ["Food", "Culinary use", "Horticulture"]
+    },
+
+    "Catharanthus": {
+        "scientific_name": "Catharanthus roseus",
+        "common_names": ["Madagascar periwinkle", "Periwinkle"],
+        "family": "Apocynaceae",
+        "description": "A flowering plant commonly cultivated as an ornamental species.",
+        "uses": ["Ornamental cultivation", "Garden decoration"]
+    },
+
+    "Astma_weed": {
+        "scientific_name": "Euphorbia hirta",
+        "common_names": ["Asthma weed"],
+        "family": "Euphorbiaceae",
+        "description": "A small herbaceous plant commonly found in tropical regions.",
+        "uses": ["Traditional plant use", "Herbal preparations"]
+    },
+
+    "Balloon_Vine": {
+        "scientific_name": "Cardiospermum halicacabum",
+        "common_names": ["Balloon vine", "Heartseed"],
+        "family": "Sapindaceae",
+        "description": "A climbing plant recognizable by its inflated balloon-like seed capsules.",
+        "uses": ["Ornamental cultivation", "Traditional plant use"]
+    },
+
+    "Hibiscus": {
+        "scientific_name": "Hibiscus rosa-sinensis",
+        "common_names": ["Hibiscus", "China rose"],
+        "family": "Malvaceae",
+        "description": "A flowering shrub widely cultivated for its large colourful flowers.",
+        "uses": ["Ornamental cultivation", "Garden decoration", "Garlands"]
+    },
+
+    "Bhrami": {
+        "scientific_name": "Bacopa monnieri",
+        "common_names": ["Brahmi", "Neeru Bhrami"],
+        "family": "Plantaginaceae",
+        "description": "A common Indian plant name that can refer to more than one species. The exact identity should be verified from the original dataset.",
+        "uses": ["Traditional plant use", "Herbal preparations"]
+    },
+
+    "Aloevera": {
+        "scientific_name": "Aloe vera",
+        "common_names": ["Aloe vera"],
+        "family": "Asphodelaceae",
+        "description": "A succulent plant cultivated in warm climates and commonly grown as an ornamental and household plant.",
+        "uses": ["Cosmetic products", "Personal-care products", "Ornamental cultivation"]
+    },
+
+    "Chakte": {
+        "scientific_name": "Senna tora",
+        "common_names": ["Chakte","Chagte"],
+        "family": "Fabaceae",
+        "description": "A dataset class identified by the local name Chakte. The published dataset documentation does not provide a scientific name for this class.",
+        "uses": ["Traditional food preparation","Dermatological and skin treatment","Digestive Health"]
+    },
+
+    "Eucalyptus": {
+        "scientific_name": "Eucalyptus",
+        "common_names": ["Eucalyptus"],
+        "family": "Myrtaceae",
+        "description": "A large genus of trees and shrubs widely cultivated in many parts of the world.",
+        "uses": ["Timber", "Essential oil production", "Landscaping"]
+    },
+
+    "Beans": {
+        "scientific_name": null,
+        "common_names": ["Beans"],
+        "family": "Fabaceae",
+        "description": "A dataset class representing bean plants cultivated for their edible pods or seeds.",
+        "uses": ["Food", "Vegetable production", "Cooking"]
+    },
+
+    "Insulin": {
+        "scientific_name": "Chamaecostus cuspidatus",
+        "common_names": ["Insulin plant"],
+        "family": "Costaceae",
+        "description": "A common name used for certain plants in traditional plant collections. The exact botanical identity should be verified from the original dataset.",
+        "uses": ["Traditional plant use", "Ornamental cultivation","Anti diabetic remedy"]
+    },
+
+    "Marigold": {
+        "scientific_name": "Tagetes",
+        "common_names": ["Marigold"],
+        "family": "Asteraceae",
+        "description": "A group of flowering plants widely cultivated for their bright flowers.",
+        "uses": ["Ornamental cultivation", "Garlands", "Garden decoration"]
+    },
+
+    "Bamboo": {
+        "scientific_name": null,
+        "common_names": ["Bamboo"],
+        "family": "Poaceae",
+        "description": "A group of fast-growing grasses with woody stems that are widely used for construction and crafts.",
+        "uses": ["Construction", "Crafts", "Garden and landscape use"]
+    },
+
+    "Amla": {
+        "scientific_name": "Phyllanthus emblica",
+        "common_names": ["Amla", "Indian gooseberry"],
+        "family": "Phyllanthaceae",
+        "description": "A small to medium-sized tree producing small greenish-yellow edible fruits.",
+        "uses": ["Food", "Pickles and preserves", "Traditional plant use"]
+    },
+
+    "Arali": {
+        "scientific_name": "Nerium oleander",
+        "common_names": ["Oleander", "Arali"],
+        "family": "Apocynaceae",
+        "description": "An evergreen ornamental shrub with attractive flowers. The plant is highly toxic if ingested.",
+        "uses": ["Ornamental cultivation", "Landscaping"]
+    },
+
+    "Globe Amarnath": {
+        "scientific_name": "Gomphrena globosa",
+        "common_names": ["Globe amaranth"],
+        "family": "Amaranthaceae",
+        "description": "An annual flowering plant known for its rounded, long-lasting flower heads.",
+        "uses": ["Ornamental cultivation", "Flower arrangements", "Garden decoration"]
+    },
+
+    "Lemon": {
+        "scientific_name": "Citrus limon",
+        "common_names": ["Lemon"],
+        "family": "Rutaceae",
+        "description": "A citrus tree cultivated for its acidic aromatic fruits.",
+        "uses": ["Food", "Beverages", "Flavoring"]
+    },
+
+    "Common rue(naagdalli)": {
+        "scientific_name": "Ruta graveolens",
+        "common_names": ["Common rue", "Rue", "Naagdalli"],
+        "family": "Rutaceae",
+        "description": "An aromatic perennial herb with bluish-green foliage.",
+        "uses": ["Ornamental cultivation", "Traditional plant use"]
+    },
+
+    "Ekka": {
+        "scientific_name": "Calotropis gigantea",
+        "common_names": ["Crown flower", "Giant milkweed", "Ekka"],
+        "family": "Apocynaceae",
+        "description": "A shrub with thick leaves and milky latex commonly found in tropical regions.",
+        "uses": ["Ornamental cultivation", "Traditional plant use"]
+    },
+
+    "Betel": {
+        "scientific_name": "Piper betle",
+        "common_names": ["Betel leaf", "Paan"],
+        "family": "Piperaceae",
+        "description": "A perennial climbing vine cultivated for its aromatic heart-shaped leaves.",
+        "uses": ["Traditional food preparation", "Culinary use", "Cultural uses"]
+    },
+
+    "Henna": {
+        "scientific_name": "Lawsonia inermis",
+        "common_names": ["Henna", "Mehndi"],
+        "family": "Lythraceae",
+        "description": "A shrub whose leaves are traditionally processed to produce a natural reddish-brown dye.",
+        "uses": ["Natural dye", "Body art", "Cosmetic use"]
+    },
+
+    "Gasagase": {
+        "scientific_name": "Papaver somniferum",
+        "common_names": ["Poppy", "Gasagase"],
+        "family": "Papaveraceae",
+        "description": "An annual flowering plant cultivated in some regions for its seeds and flowers.",
+        "uses": ["Food ingredients", "Ornamental cultivation"]
+    },
+
+    "Doddpathre": {
+        "scientific_name": "Coleus amboinicus",
+        "common_names": ["Indian borage", "Mexican mint", "Doddapatre"],
+        "family": "Lamiaceae",
+        "description": "An aromatic succulent herb with thick, strongly scented leaves.",
+        "uses": ["Cooking", "Traditional plant use", "Home gardening"]
+    },
+
+    "Malabar_Spinach": {
+        "scientific_name": "Basella alba",
+        "common_names": ["Malabar spinach", "Basella"],
+        "family": "Basellaceae",
+        "description": "A fast-growing climbing leafy vegetable cultivated in tropical climates.",
+        "uses": ["Food", "Leafy vegetable", "Cooking"]
+    },
+
+    "Rose": {
+        "scientific_name": "Rosa",
+        "common_names": ["Rose"],
+        "family": "Rosaceae",
+        "description": "A large group of flowering plants widely cultivated for their fragrant and colourful flowers.",
+        "uses": ["Ornamental cultivation", "Garlands", "Fragrance"]
+    },
+
+    "Amruthaballi": {
+        "scientific_name": "Tinospora cordifolia",
+        "common_names": ["Amruthaballi", "Guduchi"],
+        "family": "Menispermaceae",
+        "description": "A climbing plant commonly found in tropical parts of the Indian subcontinent.",
+        "uses": ["Traditional plant use", "Herbal preparations"]
+    },
+
+    "Mango": {
+        "scientific_name": "Mangifera indica",
+        "common_names": ["Mango"],
+        "family": "Anacardiaceae",
+        "description": "A tropical fruit tree cultivated widely for its edible mango fruits.",
+        "uses": ["Food", "Juice and food products", "Horticulture"]
+    },
+
+    "Seethaashoka": {
+        "scientific_name": "Polyalthia longifolia",
+        "common_names": ["Seetha Ashoka"],
+        "family": "Annonaceae",
+        "description": "An evergreen tree commonly cultivated as an ornamental and avenue tree.",
+        "uses": ["Ornamental cultivation", "Landscaping", "Avenue planting"]
+    }
+}
