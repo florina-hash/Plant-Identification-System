@@ -1,0 +1,56 @@
+Test Accuracy: 78.95%
+
+                         precision    recall  f1-score   support
+
+               Aloevera       0.94      0.94      0.94        18
+                   Amla       0.75      0.30      0.43        10
+           Amruthaballi       0.75      0.46      0.57        13
+                  Arali       1.00      1.00      1.00        13
+             Astma_weed       1.00      0.67      0.80        12
+               Badipala       1.00      0.36      0.53        11
+           Balloon_Vine       1.00      0.44      0.62         9
+                 Bamboo       0.84      0.89      0.86        18
+                  Beans       1.00      0.67      0.80        15
+                  Betel       0.88      0.82      0.85        17
+                 Bhrami       0.81      0.81      0.81        16
+             Caricature       1.00      0.91      0.95        11
+                 Castor       0.90      0.95      0.93        20
+           Catharanthus       1.00      0.80      0.89        20
+                 Chakte       0.53      0.80      0.64        10
+                 Chilly       0.88      0.70      0.78        10
+Citron lime (herelikai)       0.46      0.40      0.43        15
+  Common rue(naagdalli)       0.88      0.70      0.78        10
+              Coriender       0.89      0.94      0.91        17
+                  Curry       0.68      0.76      0.72        25
+             Doddpathre       0.95      0.82      0.88        22
+              Drumstick       0.71      0.62      0.67         8
+                   Ekka       0.75      0.75      0.75        12
+             Eucalyptus       0.85      0.92      0.88        12
+               Gasagase       0.52      0.92      0.67        12
+                 Ginger       0.85      0.92      0.88        12
+         Globe Amarnath       1.00      0.50      0.67        12
+                  Guava       0.63      0.63      0.63        19
+                  Henna       0.78      0.58      0.67        12
+               Hibiscus       1.00      0.94      0.97        18
+                  Honge       0.77      1.00      0.87        17
+                Insulin       0.93      1.00      0.96        13
+              Jackfruit       0.50      0.76      0.60        17
+                Jasmine       0.70      1.00      0.82         7
+              Kambajala       0.64      0.78      0.70         9
+             Kasambruga       1.00      0.86      0.92         7
+                  Lemon       0.72      0.68      0.70        19
+        Malabar_Spinach       0.90      0.75      0.82        12
+                  Mango       0.76      1.00      0.86        16
+               Marigold       1.00      0.50      0.67        14
+                   Mint       0.94      0.81      0.87        21
+                   Neem       0.75      0.75      0.75        20
+              Nelavembu       0.52      1.00      0.68        14
+                   Rose       0.83      0.94      0.88        16
+           Seethaashoka       0.75      0.86      0.80         7
+                 Tomato       0.60      1.00      0.75         9
+               Turmeric       1.00      1.00      1.00         6
+                 ashoka       0.80      1.00      0.89        12
+
+               accuracy                           0.79       665
+              macro avg       0.82      0.78      0.78       665
+           weighted avg       0.82      0.79      0.79       665
