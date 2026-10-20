@@ -6,10 +6,10 @@ import tensorflow as tf
 
 from tensorflow.keras.utils import load_img, img_to_array
 
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-MODEL_PATH = os.path.join(BASE_DIR, "models", "plant_model.keras")
-CLASS_NAMES_PATH = os.path.join(BASE_DIR, "models", "class_names.json")
+MODEL_PATH = os.path.join(BASE_DIR, "plant_model.keras")
+CLASS_NAMES_PATH = os.path.join(BASE_DIR,"class_names.json")
 
 model = tf.keras.models.load_model(MODEL_PATH)
 
