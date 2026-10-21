@@ -277,6 +277,13 @@ body { background: var(--cream); }
     border-color: #3d7a3a !important;
     background: rgba(200,230,196,.22) !important;
 }
+[data-testid="stFileUploader"] button {
+    width: auto !important;
+    background: transparent !important;
+    color: inherit !important;
+    box-shadow: none !important;
+    transform: none !important;
+}
 
 /* Progress bar colour */
 .stProgress > div > div { background: #3d7a3a !important; }
